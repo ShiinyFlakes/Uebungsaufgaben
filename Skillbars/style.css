@@ -1,0 +1,37 @@
+#html{
+    background:cornflowerblue ;
+    width: 50px;
+    height: 100px;
+    transition: 2s;
+}
+#html:hover{
+    width: 1000px;
+}
+
+
+#css{
+    width: 50px;
+    height: 100px;
+    background: darkmagenta;
+    transition: 2s;
+}
+#css:hover{
+    width: 1000px;
+}
+
+#js{
+    width: 50px;
+    height: 100px;
+    transition: 2s;
+    background: crimson;
+}
+#js:hover{
+    width: 1000px;
+    
+}
+
+.border{
+    border: 10px black solid;
+    height: 101px;
+}
+

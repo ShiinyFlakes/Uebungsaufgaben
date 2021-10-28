@@ -1,0 +1,21 @@
+$backgr: rgb(171, 0, 0);
+$pvar: gray;
+$fontgröße: 1.4rem;
+
+
+body{
+    margin: 0;
+    background-color: rgb(208, 200, 200);
+
+}
+
+h1, h2, h3{
+    margin: 0;
+    background-color: $backgr;
+    font-size: $fontgröße; 
+    border: 5px solid rgb(0, 0, 0);
+}
+
+p{
+    background-color: $pvar;
+}
